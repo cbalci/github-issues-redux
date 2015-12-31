@@ -1,6 +1,6 @@
 ### Golden Gate Issues
 
-This is a sample application authored for Twitter engineering challange.
+This is a sample application to use react&redux.
 
 
 
